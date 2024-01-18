@@ -23,10 +23,9 @@ export default function Header() {
         </div>
         <ul className="menuItems">
           <li className="menuItem">Movies</li>
+          <div className=""><li className="menuItem">Intertainment</li></div>
           <li className="menuItem">TV Shows</li>
-          <li className="menuItem">
-          <HiOutlineSearch/>
-          </li>
+          <li className="menuItem"><HiOutlineSearch /></li>
         </ul>
 
       </ContentWrapper>
